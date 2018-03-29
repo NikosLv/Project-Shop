@@ -1,0 +1,3 @@
+Project shop
+git status
+
